@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Keeps virtual enviornment from being pushed to Github
+venv/
