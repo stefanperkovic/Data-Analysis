@@ -1,2 +1,2 @@
 # Data-Analysis
-A repo for my Data-Analysis Project on NBA Raptor
+An exploratory data analysis of NBA Raptor statistics. 
