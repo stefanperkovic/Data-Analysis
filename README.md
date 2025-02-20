@@ -1,2 +1,2 @@
 # Data-Analysis
-An exploratory data analysis of NBA Raptor statistics. 
+This project analyzes NBA RAPTOR, an advanced statistic developed by FiveThirtyEight to measure a player's impact on team performance, both offensively and defensively, per 100 possessions. By cleaning and examining data from 2014 to 2022, the analysis highlights trends such as the greater influence of elite offensive players and the higher average RAPTOR scores observed during playoffs.
